@@ -1,3 +1,13 @@
+## [0.1.1](https://github.com/LetsStreamIt/profile-service/compare/v0.1.0...v0.1.1) (2024-09-30)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.5.1 ([d5f44fd](https://github.com/LetsStreamIt/profile-service/commit/d5f44fdad9a85c0e1e204aa8710c325bde23dd7f))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.4.0 ([be5231a](https://github.com/LetsStreamIt/profile-service/commit/be5231a2c4d46a6447f4610ca3c44fe4f31001a1))
+
 ## [1.1.2](https://github.com/LetsStreamIt/Template-for-Scala3-Projects/compare/v1.1.1...v1.1.2) (2024-08-16)
 
 ### Dependency updates
