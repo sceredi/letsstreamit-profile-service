@@ -1,3 +1,28 @@
+## [0.1.2](https://github.com/LetsStreamIt/profile-service/compare/v0.1.1...v0.1.2) (2024-10-17)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.5.2 ([f4e6611](https://github.com/LetsStreamIt/profile-service/commit/f4e6611f4f9ed4cdd4b4f87d6d7847700c17170b))
+* **deps:** update commitlint monorepo to v19.5.0 ([9f095f1](https://github.com/LetsStreamIt/profile-service/commit/9f095f1a4a8e5815eb60f3feb8411e9a36f66c3d))
+* **deps:** update dependency @commitlint/cli to v19.4.1 ([5b3f81f](https://github.com/LetsStreamIt/profile-service/commit/5b3f81f87117e9f35bed1e7f469f47e932b9fce2))
+* **deps:** update dependency ch.epfl.scala:sbt-scalafix to v0.13.0 ([03f30c2](https://github.com/LetsStreamIt/profile-service/commit/03f30c2d71b851d67f58d70ec6e1822fc3d599cf))
+* **deps:** update dependency husky to v9.1.6 ([2307da5](https://github.com/LetsStreamIt/profile-service/commit/2307da592ed67ed06fb8c346a57a1406234176ac))
+* **deps:** update dependency org.scalameta:munit to v1.0.2 ([b3a8c7e](https://github.com/LetsStreamIt/profile-service/commit/b3a8c7ee536f929b4630839c5d1c25c1a3d14117))
+* **deps:** update dependency sbt/sbt to v1.10.2 ([f2d0d83](https://github.com/LetsStreamIt/profile-service/commit/f2d0d83722b472d3c9944e948f615d3331c39522))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.109 ([62e750a](https://github.com/LetsStreamIt/profile-service/commit/62e750ae5f863bf252a8508bbbf7ec2f04aa4d27))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([d1c5145](https://github.com/LetsStreamIt/profile-service/commit/d1c51455d529b6d7677814ea94805fa7b583c841))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([b8495fe](https://github.com/LetsStreamIt/profile-service/commit/b8495fe401a6803e4a8c92be6a1d30c3bf88e80f))
+* **deps:** update node.js to 20.18 ([b3767a7](https://github.com/LetsStreamIt/profile-service/commit/b3767a7e3e38978c6ba5cfee6801bf6dddb2e9ef))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.2.0 ([5331b66](https://github.com/LetsStreamIt/profile-service/commit/5331b66055438ce1ae6123b11b4da95cdcbafb43))
+* **deps:** update actions/checkout action to v4.2.1 ([c35cb9e](https://github.com/LetsStreamIt/profile-service/commit/c35cb9e824b1bb2a07f814e879dc4b74d37d932d))
+* **deps:** update actions/setup-node action to v4.0.4 ([411714a](https://github.com/LetsStreamIt/profile-service/commit/411714a2dfda35a9a8a9412d2ba77fabae368bff))
+* **deps:** update danysk/action-checkout action to v0.2.20 ([1b171ff](https://github.com/LetsStreamIt/profile-service/commit/1b171ffc2bd274b64b49427b480e267b47be3641))
+* **deps:** update danysk/action-checkout action to v0.2.21 ([9cdc96a](https://github.com/LetsStreamIt/profile-service/commit/9cdc96a18ebbaf269a4c1ece80c47e02a1a77a92))
+* **deps:** update sbt/setup-sbt action to v1.1.0 ([401585b](https://github.com/LetsStreamIt/profile-service/commit/401585b786fb5871a5b607af045ce10a2066b682))
+
 ## [0.1.1](https://github.com/LetsStreamIt/profile-service/compare/v0.1.0...v0.1.1) (2024-09-30)
 
 ### Dependency updates
