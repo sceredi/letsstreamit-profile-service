@@ -1,3 +1,19 @@
+## [0.2.0](https://github.com/LetsStreamIt/profile-service/compare/v0.1.2...v0.2.0) (2024-10-19)
+
+### Features
+
+* added video route ([c0ff8fc](https://github.com/LetsStreamIt/profile-service/commit/c0ff8fc12babf8e316dc22426719f96223841371))
+* authentication check ([eb4e129](https://github.com/LetsStreamIt/profile-service/commit/eb4e129cdc88dbe8541df3ca4f822fbea33d5f94))
+* implemented user update ([31235c3](https://github.com/LetsStreamIt/profile-service/commit/31235c322f7ee3acdadb32ed7411587be288321d))
+
+### Build and continuous integration
+
+* **deps:** update sbt/setup-sbt action to v1.1.1 ([05ffe41](https://github.com/LetsStreamIt/profile-service/commit/05ffe418a731a470ea62d10d847835f7befc3558))
+
+### General maintenance
+
+* basic profile info implementation ([928a2b0](https://github.com/LetsStreamIt/profile-service/commit/928a2b0464f595b3921a8cdc3dbe1fd11b3ee443))
+
 ## [0.1.2](https://github.com/LetsStreamIt/profile-service/compare/v0.1.1...v0.1.2) (2024-10-17)
 
 ### Dependency updates
