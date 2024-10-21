@@ -1,3 +1,20 @@
+## [0.2.1](https://github.com/LetsStreamIt/profile-service/compare/v0.2.0...v0.2.1) (2024-10-21)
+
+### Dependency updates
+
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.2.13 ([8f857c0](https://github.com/LetsStreamIt/profile-service/commit/8f857c002edd422e1796fcc899dd73a8a7385107))
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.5.11 ([f57810d](https://github.com/LetsStreamIt/profile-service/commit/f57810d8e24d0715e1feec5ab015321060c9400c))
+* **deps:** update dependency org.scalatest:scalatest to v3.2.19 ([34e16b4](https://github.com/LetsStreamIt/profile-service/commit/34e16b4031d8c6c019d95706e5e803ceda536d5a))
+* **deps:** update dependency sbt/sbt to v1.10.3 ([4db0a9d](https://github.com/LetsStreamIt/profile-service/commit/4db0a9de89330e0add3364f050d2e8c03e8a66b3))
+
+### Bug Fixes
+
+* added cors configuration ([ec4673b](https://github.com/LetsStreamIt/profile-service/commit/ec4673b0251693b6b1fc48446865ef2e26eed719))
+
+### Tests
+
+* added test for profile routes ([4fd900a](https://github.com/LetsStreamIt/profile-service/commit/4fd900a6ea1a6e89581c9d495a1271d701225dd9))
+
 ## [0.2.0](https://github.com/LetsStreamIt/profile-service/compare/v0.1.2...v0.2.0) (2024-10-19)
 
 ### Features
