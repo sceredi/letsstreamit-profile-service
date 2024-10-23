@@ -1,3 +1,26 @@
+## [0.2.2](https://github.com/LetsStreamIt/profile-service/compare/v0.2.1...v0.2.2) (2024-10-23)
+
+### Documentation
+
+* added initial documentation ([37dc066](https://github.com/LetsStreamIt/profile-service/commit/37dc0661e1edccad066d728a58505751e7ddc698))
+
+### Build and continuous integration
+
+* add akka license key ([4b6d7d9](https://github.com/LetsStreamIt/profile-service/commit/4b6d7d9b0ea1533d38329f679acae62739acb328))
+* added automatic docs upload ([69506c7](https://github.com/LetsStreamIt/profile-service/commit/69506c7679b4ba155ddc3e27a0305cf51921f566))
+* added docker package publish ([a6ae614](https://github.com/LetsStreamIt/profile-service/commit/a6ae6143ac8cff3a1d7054427df8b23f723c3ae3))
+* fix ' typo ([0dd8c9e](https://github.com/LetsStreamIt/profile-service/commit/0dd8c9ec2056937a4fd53afa9a725524a9a2afe5))
+* fixed deploy image ([9543e53](https://github.com/LetsStreamIt/profile-service/commit/9543e537038a500942137d3ebdb68346a912153b))
+* fixed registry and image name on docker image publish ([61af9e3](https://github.com/LetsStreamIt/profile-service/commit/61af9e3e586a2010f668e483d6ed75539f2ae015))
+* fixed scala version output ([fc45e52](https://github.com/LetsStreamIt/profile-service/commit/fc45e52eac5627390a61bd75f3056f540599d080))
+* fixed scala version output ([b0240f4](https://github.com/LetsStreamIt/profile-service/commit/b0240f4fd959b258e6feb33d06ddb099e4405277))
+* fixed typo on docs build ([e839277](https://github.com/LetsStreamIt/profile-service/commit/e839277c928d71c46260ecc09e6ffebf666c6c19))
+* removed apices around scala version ([375e4bd](https://github.com/LetsStreamIt/profile-service/commit/375e4bda3cb619c7f5770376b604c7aafb72a047))
+
+### General maintenance
+
+* add akka license key ([a0c062f](https://github.com/LetsStreamIt/profile-service/commit/a0c062f06b4d82fae2f346348b1f2540d1f5fdb8))
+
 ## [0.2.1](https://github.com/LetsStreamIt/profile-service/compare/v0.2.0...v0.2.1) (2024-10-21)
 
 ### Dependency updates
