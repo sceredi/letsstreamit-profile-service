@@ -1,3 +1,23 @@
+## [0.2.3](https://github.com/LetsStreamIt/profile-service/compare/v0.2.2...v0.2.3) (2024-10-25)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.112 ([d17658f](https://github.com/LetsStreamIt/profile-service/commit/d17658fcbbc2cdf290ed56173ff8f778250cc4c1))
+
+### Bug Fixes
+
+* **dockerfile:** add compilation step ([cbe5fbe](https://github.com/LetsStreamIt/profile-service/commit/cbe5fbe4d4cb4125c59a6245d7b232884519f163))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.2.2 ([a7192f4](https://github.com/LetsStreamIt/profile-service/commit/a7192f4b48c9a9278a7351020a54a34b56910c1a))
+* **deps:** update actions/setup-java action to v4.5.0 ([5bb47b3](https://github.com/LetsStreamIt/profile-service/commit/5bb47b3e0ddfb39d8388889bf8644565b09e2d18))
+* **deps:** update actions/setup-node action to v4.1.0 ([32b5f78](https://github.com/LetsStreamIt/profile-service/commit/32b5f786d0b7edf8ca0f8a5b8407d6ddcd923c93))
+* **deps:** update danysk/action-checkout action to v0.2.22 ([cec5430](https://github.com/LetsStreamIt/profile-service/commit/cec54308e40163e3227847289090e2aa9ddc5db9))
+* **deps:** update docker/login-action digest to 5d8785b ([b9d80a2](https://github.com/LetsStreamIt/profile-service/commit/b9d80a27c88fbfd823ed108f98edc004f0473ac6))
+* **deps:** update sbt/setup-sbt action to v1.1.2 ([a5cd8cf](https://github.com/LetsStreamIt/profile-service/commit/a5cd8cf126c8324979f674bdee3697168645a1cd))
+* release docs and docker image only when a new release is made ([fe6718b](https://github.com/LetsStreamIt/profile-service/commit/fe6718b8f05163de7e9aae304901fe1631999a4b))
+
 ## [0.2.2](https://github.com/LetsStreamIt/profile-service/compare/v0.2.1...v0.2.2) (2024-10-23)
 
 ### Documentation
