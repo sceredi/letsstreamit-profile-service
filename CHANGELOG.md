@@ -1,3 +1,9 @@
+## [0.3.3](https://github.com/LetsStreamIt/profile-service/compare/v0.3.2...v0.3.3) (2024-10-27)
+
+### Bug Fixes
+
+* wrong host for docker compose ([bca815f](https://github.com/LetsStreamIt/profile-service/commit/bca815f14aef53ac68b42186d207d1e9e9fa4f2a))
+
 ## [0.3.2](https://github.com/LetsStreamIt/profile-service/compare/v0.3.1...v0.3.2) (2024-10-27)
 
 ### Bug Fixes
