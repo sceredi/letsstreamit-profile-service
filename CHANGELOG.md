@@ -1,3 +1,14 @@
+## [0.3.2](https://github.com/LetsStreamIt/profile-service/compare/v0.3.1...v0.3.2) (2024-10-27)
+
+### Bug Fixes
+
+* added possibility of getting server port from env ([0596fe1](https://github.com/LetsStreamIt/profile-service/commit/0596fe1a34f5dca3f081f6ba968d504134daf02c))
+
+### General maintenance
+
+* add error messages in auth service requests ([7e8aded](https://github.com/LetsStreamIt/profile-service/commit/7e8adedc9ad2872919b83fcf9792bc33e351b4bb))
+* add logger ([5c9e3ac](https://github.com/LetsStreamIt/profile-service/commit/5c9e3ac2d813c379c068a3c2b49715599b7676b6))
+
 ## [0.3.1](https://github.com/LetsStreamIt/profile-service/compare/v0.3.0...v0.3.1) (2024-10-27)
 
 ### Bug Fixes
