@@ -1,3 +1,9 @@
+## [0.3.4](https://github.com/LetsStreamIt/profile-service/compare/v0.3.3...v0.3.4) (2024-10-27)
+
+### Bug Fixes
+
+* changed env variables names to match naming convention ([4d8f32d](https://github.com/LetsStreamIt/profile-service/commit/4d8f32dbbf0d8e3c3f4034aced9fe3fa1a2da2f3))
+
 ## [0.3.3](https://github.com/LetsStreamIt/profile-service/compare/v0.3.2...v0.3.3) (2024-10-27)
 
 ### Bug Fixes
