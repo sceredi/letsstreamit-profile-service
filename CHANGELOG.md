@@ -1,3 +1,27 @@
+## [0.3.0](https://github.com/LetsStreamIt/profile-service/compare/v0.2.3...v0.3.0) (2024-10-27)
+
+### Features
+
+* added healthcheck ([bc89a64](https://github.com/LetsStreamIt/profile-service/commit/bc89a649cc85dc9aafebbcac7b651aed1a6c14dc))
+
+### Dependency updates
+
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.5.12 ([a4e574e](https://github.com/LetsStreamIt/profile-service/commit/a4e574e1a61ae40344a19b5ab53e43f0b2b316fa))
+
+### Build and continuous integration
+
+* change docker image upload method ([36beecc](https://github.com/LetsStreamIt/profile-service/commit/36beeccba87befb6660d4bbf3ed7a97582658f4e))
+* **deps:** update docker/build-push-action digest to 5e99dac ([3867be8](https://github.com/LetsStreamIt/profile-service/commit/3867be87c36cf9a88f2177dd2e3065c56fbfe75a))
+* **deps:** update docker/login-action digest to 0689575 ([20db644](https://github.com/LetsStreamIt/profile-service/commit/20db64485e61e66e5b1d53acb5a2d8df241fe3bd))
+* **deps:** update docker/metadata-action digest to d31acd5 ([8dfda56](https://github.com/LetsStreamIt/profile-service/commit/8dfda56f3762324d415af1b004672481c347d403))
+* fix check if release happened ([3954c3a](https://github.com/LetsStreamIt/profile-service/commit/3954c3a5ca14481af98b7e668c28ff3fff792c99))
+* fix repository name ([f156a3b](https://github.com/LetsStreamIt/profile-service/commit/f156a3b4b997799566b42d79e657c1110d23122d))
+* revert release docs and docker image only when a new release is made ([e9d0800](https://github.com/LetsStreamIt/profile-service/commit/e9d0800f1940a210d381f27ae65ac46c37b5ffba))
+
+### General maintenance
+
+* update package-lock ([6cbd7d3](https://github.com/LetsStreamIt/profile-service/commit/6cbd7d3ec0caa478c6a81eae2f367ed73e367e3e))
+
 ## [0.2.3](https://github.com/LetsStreamIt/profile-service/compare/v0.2.2...v0.2.3) (2024-10-25)
 
 ### Dependency updates
