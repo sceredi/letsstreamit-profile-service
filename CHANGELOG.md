@@ -1,3 +1,9 @@
+## [0.3.1](https://github.com/LetsStreamIt/profile-service/compare/v0.3.0...v0.3.1) (2024-10-27)
+
+### Bug Fixes
+
+* cors settings ([279baf2](https://github.com/LetsStreamIt/profile-service/commit/279baf2ecef1cc47b67b02a91251c6c6d3bd55e3))
+
 ## [0.3.0](https://github.com/LetsStreamIt/profile-service/compare/v0.2.3...v0.3.0) (2024-10-27)
 
 ### Features
