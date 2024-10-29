@@ -1,3 +1,9 @@
+## [0.3.6](https://github.com/LetsStreamIt/profile-service/compare/v0.3.5...v0.3.6) (2024-10-29)
+
+### Bug Fixes
+
+* changed hostname env variable ([5b01fc6](https://github.com/LetsStreamIt/profile-service/commit/5b01fc6ac8ee2be8af2bcf78669799688ced1ea3))
+
 ## [0.3.5](https://github.com/LetsStreamIt/profile-service/compare/v0.3.4...v0.3.5) (2024-10-29)
 
 ### Dependency updates
