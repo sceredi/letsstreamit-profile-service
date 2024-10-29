@@ -1,3 +1,13 @@
+## [0.3.5](https://github.com/LetsStreamIt/profile-service/compare/v0.3.4...v0.3.5) (2024-10-29)
+
+### Dependency updates
+
+* **deps:** update dependency sbt/sbt to v1.10.4 ([97b3596](https://github.com/LetsStreamIt/profile-service/commit/97b359673b2b529baffbedf13a76abd2340829dd))
+
+### Bug Fixes
+
+* changed port env variable name ([fc0a8a6](https://github.com/LetsStreamIt/profile-service/commit/fc0a8a6935f4355ef93e9a678bcfbe39582611f0))
+
 ## [0.3.4](https://github.com/LetsStreamIt/profile-service/compare/v0.3.3...v0.3.4) (2024-10-27)
 
 ### Bug Fixes
