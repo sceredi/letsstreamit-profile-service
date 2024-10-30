@@ -11,12 +11,13 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=LetsStreamIt_profile-service&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=LetsStreamIt_profile-service)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=LetsStreamIt_profile-service&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=LetsStreamIt_profile-service)
 
-Profile service is the microservice that manages the user profile information in the LetsStreamIt platform.
+Profile service is responsible for managing the user profile information in the LetsStreamIt platform.
+It manages the user's username, bio, and watched videos.
 
 ## Technologies
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Akka](https://img.shields.io/badge/akka-%1396B9.svg?style=for-the-badge&logo=akka&logoColor=white)
+![Akka](https://img.shields.io/badge/akka-%1396B9.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 ### Infrastructure
 
@@ -54,21 +55,21 @@ cd profile-service
 
 1. You can either run the application using the `sbt` command:
 
-    ```bash
-    sbt run
-    ```
+   ```bash
+   sbt run
+   ```
 
 2. Or you can build the Docker image:
 
-    ```bash
-    sbt docker:publishLocal
-    ```
+   ```bash
+   sbt docker:publishLocal
+   ```
 
-    And run it using Docker:
+   And run it using Docker:
 
-    ```bash
-    docker run -p 8080:8080 ghcr.io/letsstreamit/profile-service:latest
-    ```
+   ```bash
+   docker run -p 8080:8080 ghcr.io/letsstreamit/profile-service:latest
+   ```
 
 3. Or using docker-compose in a similar way to the one found at the [LetsStreamIt/bootstrap](https://github.com/LetsStreamIt/bootstrap) repository.
 
@@ -76,15 +77,15 @@ cd profile-service
 
 If you want to configure the application, you may set the following environment variables:
 
-| Variable                   | Description                         | Default     |
-| -------------------------- | ----------------------------------- | ----------- |
-| `PROFILE_SERVICE_HOSTNAME` | The hostname of the profile service | `localhost` |
-| `PROFILE_SERVICE_PORT`     | The port of the profile service     | `8080`      |
-| `MONGO_HOSTNAME`           | The hostname of the MongoDB server  | `localhost` |
-| `MONGO_PORT`               | The port of the MongoDB server      | `27017`     |
-| `AUTH_SERVICE_HOSTNAME`    | The hostname of the auth service    | `localhost` |
-| `AUTH_SERVICE_PORT`        | The port of the auth service        | `3000`      |
-| `AKKA_LICENSE_KEY`         | The license key for Akka            | `""`        |
+| Variable                   | Description                                                                              | Default     |
+| -------------------------- | ---------------------------------------------------------------------------------------- | ----------- |
+| `PROFILE_SERVICE_HOSTNAME` | The hostname of the profile service                                                      | `localhost` |
+| `PROFILE_SERVICE_PORT`     | The port of the profile service                                                          | `8080`      |
+| `MONGO_HOSTNAME`           | The hostname of the MongoDB server                                                       | `localhost` |
+| `MONGO_PORT`               | The port of the MongoDB server                                                           | `27017`     |
+| `AUTH_SERVICE_HOSTNAME`    | The hostname of the auth service                                                         | `localhost` |
+| `AUTH_SERVICE_PORT`        | The port of the auth service                                                             | `3000`      |
+| `AKKA_LICENSE_KEY`         | The license key for Akka, you can get it at [https://akka.io/key](https://akka.io/key) | `""`        |
 
 ## Documentation
 
