@@ -1,3 +1,28 @@
+## [1.0.0](https://github.com/LetsStreamIt/profile-service/compare/v0.3.6...v1.0.0) (2024-10-30)
+
+### ⚠ BREAKING CHANGES
+
+* Release v1.0.0
+
+### Dependency updates
+
+* **deps:** update node.js to v22 ([8bfe92a](https://github.com/LetsStreamIt/profile-service/commit/8bfe92a729f9f84e4b8d2ff34dbcda5d2c0d391c))
+
+### Bug Fixes
+
+* update docker image settings, remove dockerfile ([ad95e29](https://github.com/LetsStreamIt/profile-service/commit/ad95e29b80e773fc39bbfd356e4553890704c401))
+
+### Build and continuous integration
+
+* release docs and docker image only when a new release is made ([5a93835](https://github.com/LetsStreamIt/profile-service/commit/5a938353d78fb8f5b4d99dd4b13ccb2e1f713131))
+
+### General maintenance
+
+* remove comment ([484de0f](https://github.com/LetsStreamIt/profile-service/commit/484de0f58cf249642d4edc2839cae36eaa8c9250))
+* update readme ([375fd8f](https://github.com/LetsStreamIt/profile-service/commit/375fd8fa6a9d88d0c19a396215b892093cb0bb2e))
+* update readme ([79b9668](https://github.com/LetsStreamIt/profile-service/commit/79b9668ba2f22cb6086154748962d0703507898c))
+* update readme, add contributing ([311052c](https://github.com/LetsStreamIt/profile-service/commit/311052cc255d29b349bd081ec9ad11fc1d6a2571))
+
 ## [0.3.6](https://github.com/LetsStreamIt/profile-service/compare/v0.3.5...v0.3.6) (2024-10-29)
 
 ### Bug Fixes
